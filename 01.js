@@ -1,5 +1,5 @@
 //01.js
-function fn1(){
+function play(){
 	console.log("ok");
 }
-fn1();
+play();
